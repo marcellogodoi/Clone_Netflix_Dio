@@ -1,0 +1,7 @@
+https://www.themoviedb.org/?language=pt-BR site para ver a
+descrição de filmes
+
+https://fontawesome.com/ icones em SVG
+
+<script src="https://kit.fontawesome.com/f1b533460c.js" crossorigin="anonymous"></script>
+
